@@ -1,0 +1,41 @@
+# Dependency directories
+/node_modules
+
+# Environment variables
+.env
+
+# Log files
+*.log
+
+# macOS
+.DS_Store
+
+# Editor-specific files
+.vscode/
+.idea/
+
+# npm package locks
+package-lock.json
+yarn.lock
+
+# Production build files (if applicable)
+/build
+/dist
+
+# IDE specific files
+*.sublime-workspace
+*.sublime-project
+*.vscode-workspace
+.idea/
+*.code-workspace
+
+# Debug files
+npm-debug.log*
+
+# OS generated files
+.DS_Store*
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
